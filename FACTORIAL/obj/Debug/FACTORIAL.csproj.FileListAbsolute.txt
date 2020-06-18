@@ -1,0 +1,6 @@
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.exe.config
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.exe
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\bin\Debug\FACTORIAL.pdb
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.csprojResolveAssemblyReference.cache
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.exe
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\FACTORIAL\FACTORIAL\obj\Debug\FACTORIAL.pdb
